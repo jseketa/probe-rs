@@ -1,0 +1,1 @@
+A preferred flash algorithm (`--prefer-flash-algorithm`) only has to cover the written data, not the whole flash region. A region that no algorithm fully covers is flashed with an algorithm that covers the written data.
